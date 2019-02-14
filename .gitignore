@@ -4,3 +4,7 @@ db.sqlite3
 /.idea
 /.vscode
 manage.py 
+/blogengine/blogengine/__pycache__
+/blogengine/settings.py
+/blogengine/blog/__pycache__
+/blogengine/blog/settings.py
