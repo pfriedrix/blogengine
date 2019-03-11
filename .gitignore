@@ -8,3 +8,4 @@ manage.py
 /blogengine/settings.py
 /blogengine/blog/__pycache__
 /blogengine/blog/settings.py 
+*__pycache__
