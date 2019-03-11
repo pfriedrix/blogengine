@@ -1,5 +1,5 @@
 db.sqlite3
-/venv
+/.venv
 /__pycache__
 /.idea
 /.vscode
@@ -7,4 +7,4 @@ manage.py
 /blogengine/blogengine/__pycache__
 /blogengine/settings.py
 /blogengine/blog/__pycache__
-/blogengine/blog/settings.py
+/blogengine/blog/settings.py 
